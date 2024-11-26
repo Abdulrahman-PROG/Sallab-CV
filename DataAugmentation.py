@@ -3,6 +3,7 @@ from tensorflow.keras.preprocessing import image
 import matplotlib.pyplot as plt
 import numpy as np
 
+#dfdsafdsfsdffadsfdsf
 # Define the ImageDataGenerator with augmentation options
 datagen = ImageDataGenerator(
     rotation_range=40,
